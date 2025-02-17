@@ -2,7 +2,7 @@ import React from 'react';
 
 const SimplePanel: React.FC = () => {
   const handleClick = () => {
-    alert('Button clicked!');
+    alert('Button Clicked!');
   };
 
   return (
